@@ -1,0 +1,5 @@
+environment: dev
+mongo:
+  server: mongodb+srv://leonardo:SenhaSuperSecreta@cluster0.juinhjn.mongodb.net/?retryWrites=true&w=majority
+  database: desafio
+  collection: planets
